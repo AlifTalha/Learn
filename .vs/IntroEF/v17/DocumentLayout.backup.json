@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Asp.net\\IntroEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|e:\\asp.net\\introef\\introef\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|E:\\Asp.net\\IntroEF\\introef\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|E:\\Asp.net\\IntroEF\\introef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|E:\\Asp.net\\IntroEF\\introef\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|E:\\Asp.net\\IntroEF\\introef\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|E:\\Asp.net\\IntroEF\\introef\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368F3891-F2E6-4A59-B1A9-38D224183A4A}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "E:\\Asp.net\\IntroEF\\IntroEF\\EF\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\Model1.Context.cs",
+              "ToolTip": "E:\\Asp.net\\IntroEF\\IntroEF\\EF\\Model1.Context.cs",
+              "RelativeToolTip": "IntroEF\\EF\\Model1.Context.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:33.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Asp.net\\IntroEF\\IntroEF\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\IntroEF\\IntroEF\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-04T13:14:34.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Asp.net\\IntroEF\\IntroEF\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\Details.cshtml",
+              "ToolTip": "E:\\Asp.net\\IntroEF\\IntroEF\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:59:33.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\Asp.net\\IntroEF\\IntroEF\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\List.cshtml",
+              "ToolTip": "E:\\Asp.net\\IntroEF\\IntroEF\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Student\\List.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:59:11.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Asp.net\\IntroEF\\IntroEF\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\Asp.net\\IntroEF\\IntroEF\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:58:50.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Asp.net\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Asp.net\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:52:42.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
